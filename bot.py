@@ -13,9 +13,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 if bool(os.environ.get("WEBHOOK", False)):
 
-    from .import Config
-else:
-    from config as Config
+    from Config as Config
 
 from pyrogram import Client as Clinton
 
