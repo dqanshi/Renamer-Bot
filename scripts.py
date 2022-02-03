@@ -14,7 +14,6 @@ class Scripted(object):
 ╰─────────────────⍟"""
 
     HELP_TEXT = """
-<i>𝐖𝐚𝐭𝐜𝐡 𝐕𝐢𝐝𝐞𝐨 𝐇𝐨𝐰 𝐭𝐨 𝐔𝐬𝐞 𝐌𝐞 <a href='https://youtu.be/HnXdu74o34E'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></i>\n
 <i>𝐒𝐞𝐧𝐝 𝐚 𝐩𝐡𝐨𝐭𝐨 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐚𝐬 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 (optional)</i>\n
 <i>𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚𝐧𝐲 𝐟𝐢𝐥𝐞 (or) 𝐌𝐞𝐝𝐢𝐚 𝐟𝐫𝐨𝐦 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦</i>\n
 <i>𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐟𝐢𝐥𝐞𝐬 𝐢𝐧𝐭𝐨 𝐯𝐢𝐝𝐞𝐨 𝐮𝐬𝐞 /convert 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>\n
@@ -26,13 +25,13 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/teleroid_renamer_bot'>Rename X2 Bot</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/Heartbeatzzz143_bot'>Rename X2 Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>@TeleRoidGroup</a></b>
+├<b>📢 Channel : <a href='https://t.me/teamfoxbotz'>teamfox</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href=https://t.me/Heartbeatzzz143_bot'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/PredatorHackerzZ/Renamer-bot'>Click Here</a></b>
+├<b>💢 Source : <a href='https://t.me/kittumkittum'>Click Here</a></b>
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
@@ -40,9 +39,9 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>Pred∆tor</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/am_dq_fan'>DQ</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/Heartbeatzzz143_bot'>@Heartbeatzzz143_bot</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
@@ -53,14 +52,14 @@ class Scripted(object):
     CURRENT_THUMBNAIL = "<i>𝐘𝐨𝐮𝐫 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 🎭</i>"
     THUMBNAIL_SAVED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐒𝐚𝐯𝐞𝐝 ✅</i>"
     THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
-    NO_THUMBNAIL_FOUND = "<i>(Konsi Gaali Chahiye)</i>"
+    NO_THUMBNAIL_FOUND = "<i>(ഒന്നും കാണാൻ ഇല്ല)</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying to Download....</i>"
-    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TheTeleRoid</i></u>"
+    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ </i></u>"
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
     JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
-    CONTACT_MY_DEVELOPER = "<i>Something Went Wrong! Contact in Support Group @TeleRoid14 for Help. </i>"
+    CONTACT_MY_DEVELOPER = "<i>Something Went Wrong! Contact in Support Group @teamfoxbots for Help. </i>"
     START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
-    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/HelplessBoi'>[Click Here]</a></b>"
+    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/hackerxd_bot'>[Click Here]</a></b>"
