@@ -15,7 +15,7 @@ if bool(os.environ.get("WEBHOOK", False)):
 
     from .import Config
 else:
-    from config import Config
+    from config as Config
 
 from pyrogram import Client as Clinton
 
